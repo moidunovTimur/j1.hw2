@@ -17,6 +17,7 @@ public class Main {
             return home;
         }else if (age > 45 && temperature >= -10 && temperature <= 25){
             return home;
+            //gg
         }else
             return home1;
     }
